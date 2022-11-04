@@ -8,7 +8,7 @@ const Shortinfo = () => {
             <img className="w-[500px] mx-auto my-4" src={Mockup} alt="/"/>
             <div className="flex flex-col justify-center">
                 <p className='text-[#c0a1c3] font-bold'>ABOUT ME</p>
-                <h6 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Manage Data Some etc</h6>
+                <h6 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Jacqueline Porral</h6>
                 <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce laoreet id eros eget vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce laoreet id eros eget vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce laoreet id eros eget vehicula.
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce laoreet id eros eget vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce laoreet id eros eget vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce laoreet id eros eget vehicula.
